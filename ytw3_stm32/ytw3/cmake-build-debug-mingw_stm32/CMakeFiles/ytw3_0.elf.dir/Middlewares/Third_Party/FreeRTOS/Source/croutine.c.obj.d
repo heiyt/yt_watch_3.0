@@ -1,0 +1,30 @@
+CMakeFiles/ytw3_0.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\croutine.c \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\include/FreeRTOS.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/lib/gcc/arm-none-eabi/13.2.1/include/stddef.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/lib/gcc/arm-none-eabi/13.2.1/include/stdint.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/stdint.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/machine/_default_types.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/sys/features.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/_newlib_version.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/sys/_intsup.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/sys/_stdint.h \
+ D:\Projects\ClionProjects\ytw3\Core\Inc/FreeRTOSConfig.h \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\include/projdefs.h \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\include/portable.h \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\include/deprecated_definitions.h \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F/portmacro.h \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\include/mpu_wrappers.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/reent.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/sys/reent.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/_ansi.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/newlib.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/sys/config.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/machine/ieeefp.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/sys/cdefs.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/sys/_types.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/machine/_types.h \
+ D:/Program_Data/STM32Cube/GNU_Tools_ARM_Embedded/arm-none-eabi/include/sys/lock.h \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\include/list.h \
+ D:\Projects\ClionProjects\ytw3\Middlewares\Third_Party\FreeRTOS\Source\include/croutine.h
