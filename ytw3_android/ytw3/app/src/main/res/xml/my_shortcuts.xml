@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutId="first"
+        android:shortcutLongLabel="@string/title_activity_main"
+        android:shortcutShortLabel="@string/title_activity_main">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.example.ytw3.EnterActivity"
+            android:targetPackage="com.example.ytw3" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutId="second"
+        android:shortcutLongLabel="@string/title_activity_ble"
+        android:shortcutShortLabel="@string/title_activity_ble">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.example.ytw3.BLE_ControlActivity"
+            android:targetPackage="com.example.ytw3" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
