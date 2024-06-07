@@ -1,1 +1,0 @@
-at_command = "AT+NAME=YTW3_0\r\n";

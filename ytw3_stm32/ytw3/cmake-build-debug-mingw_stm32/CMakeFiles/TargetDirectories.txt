@@ -1,3 +1,0 @@
-D:/Projects/ClionProjects/ytw3/cmake-build-debug-mingw_stm32/CMakeFiles/ytw3_0.elf.dir
-D:/Projects/ClionProjects/ytw3/cmake-build-debug-mingw_stm32/CMakeFiles/edit_cache.dir
-D:/Projects/ClionProjects/ytw3/cmake-build-debug-mingw_stm32/CMakeFiles/rebuild_cache.dir
